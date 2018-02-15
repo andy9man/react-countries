@@ -143,7 +143,7 @@ class RegionView extends Component {
                                         )})
                                     :
                                         <div data-notification="" className="notification-box alert">
-                                            There was an issue loading countries...
+                                            There was an issue loading countries, or is not a valid country.
                                             {/* <a href="#" class="close">&#xD7;</a> */}
                                         </div>
                             :
